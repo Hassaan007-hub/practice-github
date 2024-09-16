@@ -1,10 +1,10 @@
-def cubic(num):
-    return num*num*num
+def square(num):
+    return num*num
 
-c = cubic(2)
-print(c)
+s = square(2)
+print(s)
 
-print("Cube is ", c)
+print("square is ", s)
 
-print("Cube = num^3")
+print("Cube = num^2")
 print("new changes")
